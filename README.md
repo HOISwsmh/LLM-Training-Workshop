@@ -29,3 +29,8 @@ So I spent even more money.
 And then, this project came to life.
 
 Anyway, if this project helps you, I’ll be really happy. If you run into any issues, you can email me at 2138320760@qq.com, although I don’t check my inbox very often. You can also reach me in other ways, such as adding me on QQ.
+
+-|-更新/UPDATE-|-
+v0.1.2 修复了大量翻译问题
+v0.1.1 修复了交互逻辑，优化了ui设计，完善了部分功能
+v0.1.0 首个可以正常使用的测试版
