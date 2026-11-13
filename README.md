@@ -32,7 +32,7 @@ Anyway, if this project helps you, I’ll be really happy. If you run into any i
 
 -|-更新/UPDATE-|-
 
-v0.1.2 修复了大量翻译问题
+v0.1.2 修复了交互逻辑，修复了部分未翻译文本
 
 v0.1.1 修复了交互逻辑，优化了ui设计，完善了部分功能
 
