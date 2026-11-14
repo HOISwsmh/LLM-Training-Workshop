@@ -30,7 +30,9 @@ And then, this project came to life.
 
 Anyway, if this project helps you, I’ll be really happy. If you run into any issues, you can email me at 2138320760@qq.com, although I don’t check my inbox very often. You can also reach me in other ways, such as adding me on QQ.
 
---------------------|-更新/UPDATE-|--------------------
+---|---更新/UPDATE---|---
+
+--v0.2.2-- 优化了少量ui问题，删除了我不小心加进去的多模态脚本（真的是不小心，结果有两个不能删了）
 
 --v0.2.1-- 修复了特殊情况无法获取日志的问题，修复了页面挤压时的显示问题，优化了监控系统
 
