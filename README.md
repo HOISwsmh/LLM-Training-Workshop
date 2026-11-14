@@ -30,12 +30,12 @@ And then, this project came to life.
 
 Anyway, if this project helps you, I’ll be really happy. If you run into any issues, you can email me at 2138320760@qq.com, although I don’t check my inbox very often. You can also reach me in other ways, such as adding me on QQ.
 
--|-更新/UPDATE-|-
+--------------------|-更新/UPDATE-|--------------------
 
-v0.1.3 修复了部分未翻译文本，左上角添加了版本号，修复了训练状态显示异常，提高了监控更新频率
+--v0.1.3-- 修复了部分未翻译文本，左上角添加了版本号，修复了训练状态显示异常，提高了监控更新频率，优化了交互逻辑
 
-v0.1.2 修复了交互逻辑，修复了部分未翻译文本
+--v0.1.2-- 修复了交互逻辑，修复了部分未翻译文本
 
-v0.1.1 修复了交互逻辑，优化了ui设计，完善了部分功能
+--v0.1.1-- 修复了交互逻辑，优化了ui设计，完善了部分功能
 
-v0.1.0(已删除/deleted) 首个可以正常使用的测试版
+--v0.1.0--(已删除/deleted)-- 首个可以正常使用的测试版
