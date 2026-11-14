@@ -32,6 +32,8 @@ Anyway, if this project helps you, I’ll be really happy. If you run into any i
 
 -|-更新/UPDATE-|-
 
+v0.1.3 修复了部分未翻译文本，修复了交互逻辑，左上角添加了版本号小字，修复了训练状态显示异常
+
 v0.1.2 修复了交互逻辑，修复了部分未翻译文本
 
 v0.1.1 修复了交互逻辑，优化了ui设计，完善了部分功能
