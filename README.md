@@ -32,6 +32,8 @@ Anyway, if this project helps you, I’ll be really happy. If you run into any i
 
 ---|---更新/UPDATE---|---
 
+--v0.4.1-- 优化了下载功能，优化了交互逻辑，修复了训练曲线断开问题，优化了ui设计
+
 --v0.4.0-- 新增了SFT、LoRA等功能，优化了交互逻辑，优化了底层逻辑，优化了ui设计，优化了翻译
 
 --v0.3.3-- 优化了交互逻辑，优化了导入系统，优化了底层逻辑，加强了下载与更新安全，优化了翻译
